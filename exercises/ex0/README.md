@@ -13,7 +13,7 @@
 ## SAP Datasphere 
 ### Space set-up
 A space is available and assigned for each participant couple. The space name is <mark>`AC382806U**xx**`</mark> (fill **xx** with your user number that you find on your PC; e.g., <mark>`AC382806U01`)</mark>. 
-![](../../images/ex0_1.png)
+![](../images/ex0_1.png)
 > [!NOTE]  
 > The exercise was done in space `AC382806U02`. Screenshots will reflect this space in SAP Datasphere and SAP Analytics Cloud. You are using <mark>`AC382806Uxx`</mark> instead. 
 
