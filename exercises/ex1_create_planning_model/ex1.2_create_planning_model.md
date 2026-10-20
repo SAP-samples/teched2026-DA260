@@ -78,4 +78,4 @@ The final result should look as follows:
 > [!NOTE]  
 > Number of records (as displayed in the data preview), overall sums and values can differ between the screenshots in this exercise and what you see in your models, stories, and previews. This can be due to recently added filters, standard data updates in the source etc. The transactional data does not matter too much in this workshop. So don't worry.
 
-Continue to [exercise 1.3](ex1.3_load_budget_data).
+Continue to [exercise 1.3](ex1.3_load_budget_data.md).
