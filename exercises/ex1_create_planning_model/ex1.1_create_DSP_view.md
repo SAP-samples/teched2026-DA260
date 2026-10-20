@@ -16,7 +16,8 @@ In this exercise, you will build a view from which we will later create a planni
 4. Drag view `V_DA260_SOURCE` on to the canvas.
 ![](../images/ex1.1_4.png)
 
-5. Call the view 'V_PLANNING_SOURCE' and make it a fact view exposed for consumption.
+5. Call the view 'V_PLANNING_SOURCE' and make it a fact view exposed for consumption. Deploy it. 
 ![](../images/ex1.1_5.png)
 
-6. 
+6. Review the column structure. This will be the basis for our planning model in SAP Analytics Cloud later on. You will notice that we added information like descriptions and hierarchy levels in the columns for some dimensions. You will use these later in SAP Analytics Cloud. 
+![](../images/ex1.1_6.png)
