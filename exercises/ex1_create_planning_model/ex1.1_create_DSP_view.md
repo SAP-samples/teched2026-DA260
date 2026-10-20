@@ -18,6 +18,10 @@ In this exercise, you will build a view from which we will later create a planni
 
 5. Call the view 'V_PLANNING_SOURCE' and make it a fact view exposed for consumption. Deploy it. 
 ![](../images/ex1.1_5.png)
+![](../images/ex1.1_7.png)
 
-6. Review the column structure. This will be the basis for our planning model in SAP Analytics Cloud later on. You will notice that we added information like descriptions and hierarchy levels in the columns for some dimensions. You will use these later in SAP Analytics Cloud. 
+7. Review the column structure. This will be the basis for our planning model in SAP Analytics Cloud later on. You will notice that we added information like descriptions and hierarchy levels in the columns for some dimensions. You will use these later in SAP Analytics Cloud. 
 ![](../images/ex1.1_6.png)
+
+
+Continue to [exercise 1.2](../ex.1.2_create_planning_model) to create a planning model in SAP Analytics Cloud based on the created view.
