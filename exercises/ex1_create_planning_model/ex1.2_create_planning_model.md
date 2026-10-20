@@ -55,7 +55,25 @@ In this exercise, we will use the `V_PLANNING_SOURCE` view from SAP Datasphere a
 For lines marked as base members in column D, only paste descriptions and hierarchy nodes. These account already exist in the dimension table in SAP Analytics Cloud. For all other accounts, copy, ID, description and hierarchy node.
 
 The final result should look as follows:
+
 ![](../images/ex1.2_19.png)
+
+16. Expose the model's fact data in the data builder of SAP Datasphere. Call the table 'T_PLANNING_FACTS'.
+![](../images/ex1.2_20.png)
+![](../images/ex1.2_21.png)
+
+17. Add a budget version by editing the 'Version' dimension table.
+![](../images/ex1.2_25.png)
+![](../images/ex1.2_26.png)
+
+18. Extend the model's date range. Click on the token of the 'Date' dimension and set the range from 2024 to 2027.
+![](../images/ex1.2_27.png)
+
+19. Review the model structure and the data preview. Note the live connection of the 'Actual' version to the source view that we based our model on.
+![](../images/ex1.2_22.png)
+
+20. Save the model. Call it 'DA260_MODEL'.
+![](../images/ex1.2_23.png)
 
 > [!NOTE]  
 > Number of records (as displayed in the data preview), overall sums and values can differ between the screenshots in this exercise and what you see in your models, stories, and previews. This can be due to recently added filters, standard data updates in the source etc. The transactional data does not matter too much in this workshop. So don't worry.
