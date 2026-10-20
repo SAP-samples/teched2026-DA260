@@ -20,3 +20,15 @@ In this exercise, we will use the `V_PLANNING_SOURCE` view from SAP Datasphere a
 
 5. Select the view that you created in [exercise 1.1](../ex1_create_planning_model/ex1.1_create_DSP_view.md).
 ![](../images/ex1.2_6.png)
+
+6. You now see the columns that you saw in the SAP Datasphere view. Start grouping columns by adding the 'CompanyCodeDescription' column as the description of the 'CompanyCode' column. 
+![](../images/ex1.2_7.png)
+![](../images/ex1.2_8.png)
+
+7. Do the same for the product dimension.
+![](../images/ex1.2_9.png)
+![](../images/ex1.2_10.png)
+
+
+> [!NOTE]  
+> Number of records (as displayed in the data preview), overall sums and values can differ between the screenshots in this exercise and what you see in your models, stories, and previews. This can be due to recently added filters, standard data updates in the source etc. The transactional data does not matter too much in this workshop. So don't worry.
