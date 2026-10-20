@@ -35,3 +35,7 @@ In this exercise, you will add budget data to your model via a data import job.
 
 11. Map 'AccountParent'
  ![](../images/ex1.3_13.png)
+
+12. Click 'Next', 'Run Import' and 'Finish'
+ ![](../images/ex1.3_11.png)
+ ![](../images/ex1.3_12.png)
