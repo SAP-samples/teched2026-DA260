@@ -39,3 +39,5 @@ In this exercise, you will add budget data to your model via a data import job.
 12. Click 'Next', 'Run Import' and 'Finish'
  ![](../images/ex1.3_11.png)
  ![](../images/ex1.3_12.png)
+
+Move on to [exercise 2](ex2-create_planning_story.md) to create a story and plan. 
