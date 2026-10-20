@@ -29,6 +29,21 @@ In this exercise, we will use the `V_PLANNING_SOURCE` view from SAP Datasphere a
 ![](../images/ex1.2_9.png)
 ![](../images/ex1.2_10.png)
 
+8. Convert 'ProductGroup' and 'ProductHierarchy' to text properties of the 'Produt' dimension.
+![](../images/ex1.2_11.png)
+![](../images/ex1.2_12.png)
+
+9. Create a level-based hierarchy.
+![](../images/ex1.2_13.png)
+
+10. Name the hierarchy. Set 'ProductHierarchy' as level 1 and 'ProductGroup' as level 2.
+![](../images/ex1.2_14.png)
+
+11. Create an account dimension from the 'Account' column.
+![](../images/ex1.2_15.png)
+![](../images/ex1.2_16.png)
+
+13. 
 
 > [!NOTE]  
 > Number of records (as displayed in the data preview), overall sums and values can differ between the screenshots in this exercise and what you see in your models, stories, and previews. This can be due to recently added filters, standard data updates in the source etc. The transactional data does not matter too much in this workshop. So don't worry.
