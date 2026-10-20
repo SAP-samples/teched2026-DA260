@@ -19,6 +19,6 @@ In this exercise, you will add budget data to your model via a data import job.
 ![](../images/ex1.3_5.png)
 ![](../images/ex1.3_6.png)
 
-7. Set 'Account' and 'AccountParent' as String.
+7. Set 'Account' and 'AccountParent' as String. You can do so by clicking on the column header names in the grids.
 ![](../images/ex1.3_6a.png)
 ![](../images/ex1.3_6b.png)
