@@ -33,4 +33,5 @@ In this exercise, you will add budget data to your model via a data import job.
 10. Map 'CompanyCodeDescription', 'ProductDescription', 'ProductGroup', 'ProductHierarchy' as per the image below.
  ![](../images/ex1.3_10.png)
 
-11. 
+11. Map 'AccountParent'
+ ![](../images/ex1.3_13.png)
