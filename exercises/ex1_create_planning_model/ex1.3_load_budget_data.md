@@ -15,4 +15,6 @@ In this exercise, you will add budget data to your model via a data import job.
 5. Set up the import.
    ![](../images/ex1.3_4.png)
 
-6. 
+6. Review the issues on the Company Code column and set the column as String.
+![](../images/ex1.3_5.png)
+![](../images/ex1.3_6.png)
