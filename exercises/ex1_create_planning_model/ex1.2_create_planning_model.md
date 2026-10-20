@@ -43,7 +43,13 @@ In this exercise, we will use the `V_PLANNING_SOURCE` view from SAP Datasphere a
 ![](../images/ex1.2_15.png)
 ![](../images/ex1.2_16.png)
 
-13. 
+13. Edit the account dimension.
+![](../images/ex1.2_17.png)
+
+14. Toggle grid view.
+![](../images/ex1.2_18.png)
+
+15. Paste master data from this Excel file. Download it, open it and copy paste using keyboard shortcuts (CTRL+C / CTRL+V). 
 
 > [!NOTE]  
 > Number of records (as displayed in the data preview), overall sums and values can differ between the screenshots in this exercise and what you see in your models, stories, and previews. This can be due to recently added filters, standard data updates in the source etc. The transactional data does not matter too much in this workshop. So don't worry.
