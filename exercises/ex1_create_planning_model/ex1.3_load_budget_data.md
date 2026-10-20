@@ -18,3 +18,7 @@ In this exercise, you will add budget data to your model via a data import job.
 6. Review the issues on the Company Code column and set the column as String.
 ![](../images/ex1.3_5.png)
 ![](../images/ex1.3_6.png)
+
+7. Set 'Account' and 'AccountParent' as String.
+![](../images/ex1.3_6a.png)
+![](../images/ex1.3_6b.png)
