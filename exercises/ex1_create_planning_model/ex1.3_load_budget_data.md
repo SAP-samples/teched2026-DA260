@@ -22,3 +22,15 @@ In this exercise, you will add budget data to your model via a data import job.
 7. Set 'Account' and 'AccountParent' as String. You can do so by clicking on the column header names in the grids.
 ![](../images/ex1.3_6a.png)
 ![](../images/ex1.3_6b.png)
+
+8. Click 'Next'.
+ ![](../images/ex1.3_7.png)
+
+9. Set 'Public.Budget' as default version.
+ ![](../images/ex1.3_8.png)
+ ![](../images/ex1.3_9.png)
+
+10. Map 'CompanyCodeDescription', 'ProductDescription', 'ProductGroup', 'ProductHierarchy' as per the image below.
+ ![](../images/ex1.3_10.png)
+
+11. 
