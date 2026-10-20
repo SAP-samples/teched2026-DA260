@@ -24,4 +24,4 @@ In this exercise, you will build a view from which we will later create a planni
 ![](../images/ex1.1_6.png)
 
 
-Continue to [exercise 1.2](../ex.1.2_create_planning_model) to create a planning model in SAP Analytics Cloud based on the created view.
+Continue to [exercise 1.2](ex1.2_create_planning_model.md) to create a planning model in SAP Analytics Cloud based on the created view.
