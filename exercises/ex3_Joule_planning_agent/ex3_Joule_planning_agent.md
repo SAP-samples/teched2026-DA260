@@ -47,3 +47,6 @@ In this exercise, we will use Joule to do planning with us. You can follow all i
 The version should be displayed on the table as we did not set a filter on versions when designing the table. 
 
 ## Joule
+
+Say hi to Joule! See how to start a new conversation and handle a common error of the beta version. 
+![](../images/ex3_J1.gif)
