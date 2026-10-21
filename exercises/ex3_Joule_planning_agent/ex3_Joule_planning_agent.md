@@ -1,6 +1,6 @@
 # Using the Enterprise Planning & Simulation Agent
 
-In this exercise, we will use Joule to do planning with us. 
+In this exercise, we will use Joule to do planning with us. You can follow all instructions or play around with your own ideas and prompts. It is recommended to first follow the preparation steps. 
 
 > [!NOTE]
 > The enterprise Planning & Simulation Agent is scheduled to be released on Q4 2026. In this demo, we will use the beta version of the agent that was validated in June 2026. It has known limitations and sometimes is unstable. In case of system issues during the hands-on, we will fall back to a demo provided by the instructors on another tenant. Known limitations are:
@@ -22,5 +22,13 @@ In this exercise, we will use Joule to do planning with us.
 > - Analytics Narrative Agent
 
 
-## Prepare plan version
-1. 
+## Prepare plan version and table
+> [!NOTE]
+> Joule can create new versions. Adding a version upfront is more straight-forward to start planning given the used beta state of the agent. Feel free to try out version creation with Joule by yourself!
+
+1. Open version management.
+
+
+
+
+## Joule
