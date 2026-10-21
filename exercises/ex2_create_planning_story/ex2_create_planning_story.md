@@ -28,6 +28,25 @@ Rows:
 
 Columns: 
 - `Measures`
-- `Version`
-- `Date`
+- `Version` --> Filter `Amount`
+- `Date`--> Set visibility levels
 ![](../images/ex2_7.gif)
+
+## AI-assisted prompt insight widget
+
+> [!NOTE]
+> The AI-assisted prompt insight widget enables designers to embed predefined LLM prompts into SAP Analytics Cloud stories and use existing tables and charts as analytical context. Power users and implementation teams can provide targeted AI experiences that are prepared and governed. Learn more in this [blogpost](https://community.sap.com/t5/technology-blog-posts-by-sap/enrich-sap-analytics-cloud-story-dashboards-using-the-ai-assisted-prompt/ba-p/14466018)
+
+1. Add AI Prompt Insights widget
+![](../images/ex2_8.png)
+
+2. In the builder panel of the widget, bind it to the table
+![](../images/ex2_9.png)
+![](../images/ex2_10.png)
+
+3. The widget offers a visible and an invisible prompt. The visible prompt shall give story consumers enough insight into what the widget analyzes. The invisible prompt can provide more information and technical hints. 
+For the visible prompt, add:
+> Analyze deviations in my YTD performance from January 2026 until July 2026 in terms of deviations between Actual and Budget.
+
+For the invisible prompt, add:
+> Analyze deviations in my YTD performance from January 2026 until July 2026 in terms of deviations between Actual and Budget. Are there Company Codes that are significantly below budget? Pay specific attention at the revenue budget adherence. Do not look at total year at all. Just look at January-July
