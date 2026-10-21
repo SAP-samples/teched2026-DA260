@@ -42,6 +42,7 @@ In this exercise, we will use Joule to do planning with us. You can follow all i
 > Ignoring the planning area is not best practice in customer projects. In real life, use the planning area to optimize performance.
 
 4. Close the side panel.
+
 ![](../images/ex3_6.png)
 
 The version should be displayed on the table as we did not set a filter on versions when designing the table. 
