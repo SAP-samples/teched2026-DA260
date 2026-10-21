@@ -62,5 +62,6 @@ For the invisible prompt, add:
 5. Generate the insights
 ![](../images/ex2_12.png)
 
-6. Save your story
+6. Save your story.
+   
 ![](../images/ex2_15.png)
