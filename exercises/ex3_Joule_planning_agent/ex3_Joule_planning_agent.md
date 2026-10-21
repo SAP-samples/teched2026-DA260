@@ -29,7 +29,21 @@ In this exercise, we will use Joule to do planning with us. You can follow all i
 1. Open version management.
 ![](../images/ex3_1.png)
 
-2. Add new blank public version
+2. Add new blank public version and call it 'DA260_Forecast'. Assign the 'Forecast' category. 
+
 ![](../images/ex3_2.png)
+![](../images/ex3_3.png)
+
+3. In the version management panel, start the edit mode on this version. Do not customize the planning area. 
+![](../images/ex3_4.png)
+![](../images/ex3_5.png)
+
+> [!WARNING]
+> Ignoring the planning area is not best practice in customer projects. In real life, use the planning area to optimize performance.
+
+4. Close the side panel.
+![](../images/ex3_6.png)
+
+The version should be displayed on the table as we did not set a filter on versions when designing the table. 
 
 ## Joule
