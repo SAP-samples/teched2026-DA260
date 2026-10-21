@@ -32,6 +32,8 @@ Columns:
 - `Date`--> Set visibility levels
 ![](../images/ex2_7.gif)
 
+6. Save your story under 'My Files'. Call it 'DA260_Story'
+
 ## AI-assisted prompt insight widget
 
 > [!NOTE]
@@ -44,9 +46,16 @@ Columns:
 ![](../images/ex2_9.png)
 ![](../images/ex2_10.png)
 
-3. The widget offers a visible and an invisible prompt. The visible prompt shall give story consumers enough insight into what the widget analyzes. The invisible prompt can provide more information and technical hints. 
+3. The widget offers a visible and an invisible prompt. The visible prompt shall give story consumers enough insight into what the widget analyzes. The invisible prompt can provide more information and technical hints. <br/>
+
 For the visible prompt, add:
 > Analyze deviations in my YTD performance from January 2026 until July 2026 in terms of deviations between Actual and Budget.
 
 For the invisible prompt, add:
 > Analyze deviations in my YTD performance from January 2026 until July 2026 in terms of deviations between Actual and Budget. Are there Company Codes that are significantly below budget? Pay specific attention at the revenue budget adherence. Do not look at total year at all. Just look at January-July
+
+4. Choose concise mode. You can experiment with this setting if you want to (change is possible at run time). 
+![](../images/ex2_11.png)
+
+5. Generate the insights
+![](../images/ex2_12.png)
