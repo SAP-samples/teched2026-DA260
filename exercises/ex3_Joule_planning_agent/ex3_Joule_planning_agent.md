@@ -48,5 +48,5 @@ The version should be displayed on the table as we did not set a filter on versi
 
 ## Joule
 
-Say hi to Joule! See how to start a new conversation and handle a common error of the beta version. 
+Say Hi to Joule! See how to start a new conversation and handle a common error of the beta version. 
 ![](../images/ex3_J1.gif)
