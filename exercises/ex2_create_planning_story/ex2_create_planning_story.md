@@ -1,6 +1,8 @@
 # Create planning story
 In this exercise, you will build a story on the of the model that you created in [exercise 1](../ex1_create_planning_model). 
 
+## Basic layout and planning table
+
 1. Create a story. You can start directly from your model.
 ![](../images/ex2_1.png)
 
