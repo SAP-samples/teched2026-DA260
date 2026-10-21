@@ -33,6 +33,8 @@ Columns:
 ![](../images/ex2_7.gif)
 
 6. Save your story under 'My Files'. Call it 'DA260_Story'
+![](../images/ex2_13.png)
+![](../images/ex2_14.png)
 
 ## AI-assisted prompt insight widget
 
@@ -59,3 +61,6 @@ For the invisible prompt, add:
 
 5. Generate the insights
 ![](../images/ex2_12.png)
+
+6. Save your story
+![](../images/ex2_15.png)
