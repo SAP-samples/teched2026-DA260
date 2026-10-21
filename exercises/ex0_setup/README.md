@@ -23,5 +23,5 @@ You are asked to work in `My Files`, so not in the `Public` folder.
 You find some sample materials under `Public/TechEd2026_DA260`. No need to check them now as they will be referred to in the exercises where they will be needed. 
 
 
-Now, move on to the first real exercise. [Exercise 1 - Create planning model](../ex1_create_planning_model/ex1.1_create_DSP_view/README.md)
+Now, move on to the first real exercise. [Exercise 1 - Create planning model](../ex1_create_planning_model/ex1.1_create_DSP_view.md)
 
