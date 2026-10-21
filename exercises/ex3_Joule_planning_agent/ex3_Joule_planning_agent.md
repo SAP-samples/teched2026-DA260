@@ -9,6 +9,7 @@ In this exercise, we will use Joule to do planning with us.
 
 > [!NOTE]
 > What can the agent do?
+> 
 > The Planning Agent assists users in complex planning workflows including assessing risk, generating new plans and forecasts, and simulating different scenarios using natural language input.
 > Accelerate planning cycles and improve forecast accuracy by enabling planners to simulate scenarios, generate forecasts, incorporate external data, and execute data actions through natural language.
 > Example prompts:  ”Increase Revenue by 20% in 2026, but freeze Q1” or “Forecast shows that I will not achieve the annual plan target.  Please propose some adjustments to return to plan”
