@@ -28,7 +28,7 @@ Basic understanding of the concepts of SAP Datasphere
 
 ## Exercises
 
-Get started [here](exercises).
+Get started [here](exercises/ex0_setup).
 
 **IMPORTANT**
 
