@@ -9,19 +9,22 @@ The [Reuse Tool](https://reuse.software/) must be used for your samples project.
 3. The README.md file (this file):
 Please edit this file as it is the primary description file for your project. You can find some placeholder titles for sections below.
 
-# Session ID - Session Title
+# DA260 - Accelerate agentic planning with trusted data products
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2026 session called Session ID - Session Title.  
+This repository contains the material for the SAP TechEd 2026 session called DA260 - Accelerate agentic planning with trusted data products.  
 
 ## Overview
 
-This session introduces attendees to...
+In this session, you will create an SAP Analytics Cloud seamless planning model based on a data product shared with an SAP Datasphere space that you can access. On top of this planning model, you will build a planning story and use the Enterprise Planning & Simulation Agent in Joule. You will also use the Data and Analytics Insights Agent to create a reporting story on a sample model. 
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are...
+The requirements to follow the exercises in this repository are:
+
+Knowledge of planning in SAP Analytics Cloud
+Basic understanding of the concepts of SAP Datasphere
 
 ## Exercises
 
