@@ -51,3 +51,6 @@ The version should be displayed on the table as we did not set a filter on versi
 
 Say Hi to Joule! See how to start a new conversation and handle a common error of the beta version. 
 ![](../images/ex3_J1.gif)
+
+> [!NOTE]
+> You can use the prompts below. But feel free to experiment and play around!
