@@ -77,6 +77,18 @@ The version should be displayed on the table as we did not set a filter on versi
 6. Do specific planning actions.
 > Increase revenue by 10% for country France
 
-6. Ask it to redistribute. You can also lock cells. Joule will respect it.
+7. Ask it to redistribute. You can also lock cells. Joule will respect it.
 > Apply a monthly phasing in China with a revenue peak in the last month of the quarter. Revenue distribution within a quarter is 20%-35%-45%
 ![](../images/ex3_15.png)
+
+8. Talk strategy.
+> Can you propose business measure to increase bike sales?
+> How can I get my forecast to match my budget? Can you suggest and measures and integrate them in my forecast?
+
+9. Do more advanced planning.
+> I want to hire additional sales reps in China. Please increase employee expenses accordingly and plan additional sales
+
+10. Create a version.
+> Create a new plan version. Call it...
+
+Whenever you want, move on to [exercise 4](../ex4_Joule_data_insights_agent) to see the Data and Insights Agent in action!
