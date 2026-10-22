@@ -67,6 +67,16 @@ The version should be displayed on the table as we did not set a filter on versi
 ![](../images/ex3_8.png)
 ![](../images/ex3_9.png)
 
-5. Ask Joule how it can help you.
+4. Ask Joule how it can help you.
 > What can you do on top of planning models?
 
+5. Ask it to fill your Forecast version.
+> Copy actuals from January until July 2026 from the actual version to DA260_FC
+> Generate a forecast for BesRun China for the months August-December in DA260_Forecast. It should match my budget
+
+6. Do specific planning actions.
+> Increase revenue by 10% for country France
+
+6. Ask it to redistribute. You can also lock cells. Joule will respect it.
+> Apply a monthly phasing in China with a revenue peak in the last month of the quarter. Revenue distribution within a quarter is 20%-35%-45%
+![](../images/ex3_15.png)
