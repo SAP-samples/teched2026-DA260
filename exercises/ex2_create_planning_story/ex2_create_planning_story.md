@@ -27,8 +27,8 @@ Rows:
 - `Account`
 
 Columns: 
-- `Measures`
-- `Version` --> Filter `Amount`
+- `Measures` --> Filter `Amount`
+- `Version` 
 - `Date`--> Set visibility levels
 ![](../images/ex2_7.gif)
 
