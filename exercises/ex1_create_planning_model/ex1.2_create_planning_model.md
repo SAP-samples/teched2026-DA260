@@ -58,7 +58,7 @@ The final result should look as follows:
 
 ![](../images/ex1.2_19.png)
 
-15. Save the model
+15. Save the model. Call it 'DA260_MODEL'.
 
 ![](../images/ex1.2_23.png)
 ![](../images/ex1.2_24.png)
@@ -77,7 +77,7 @@ The final result should look as follows:
 19. Review the model structure and the data preview. Note the live connection of the 'Actual' version to the source view that we based our model on.
 ![](../images/ex1.2_22.png)
 
-20. Save the model. Call it 'DA260_MODEL'.
+20. Save the model. 
 ![](../images/ex1.2_23.png)
 
 > [!NOTE]  
