@@ -24,11 +24,11 @@ Close the information pop-up in case it appears.
 
 Rows: 
 - `Company Code`
-- `Account`
+- `Account` --> Filter `Operating Income`
 
 Columns: 
 - `Measures` --> Filter `Amount`
-- `Version` --> Remove filters
+- `Version` --> Remove filter
 - `Date`--> Set visibility levels
 ![](../images/ex2_7.gif)
 
