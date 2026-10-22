@@ -43,13 +43,13 @@ In this exercise, we will use the `V_PLANNING_SOURCE` view from SAP Datasphere a
 ![](../images/ex1.2_15.png)
 ![](../images/ex1.2_16.png)
 
-13. Edit the account dimension.
+12. Edit the account dimension.
 ![](../images/ex1.2_17.png)
 
-14. Toggle grid view.
+13. Toggle grid view.
 ![](../images/ex1.2_18.png)
 
-15. Paste master data from this [Excel file]([../files/DA260_Account.xlsx](https://github.com/Sygyzmundovych/teched2026-DA260/raw/refs/heads/main/exercises/files/DA260_Account.xlsx)). Download it, open it and copy paste using keyboard shortcuts (CTRL+C / CTRL+V). 
+14. Paste master data from this [Excel file]([../files/DA260_Account.xlsx](https://github.com/Sygyzmundovych/teched2026-DA260/raw/refs/heads/main/exercises/files/DA260_Account.xlsx)). Download it, open it and copy paste using keyboard shortcuts (CTRL+C / CTRL+V). 
 ![](../images/ex1.2_28.png)
 
 For lines marked as base members in column D, only paste descriptions and hierarchy nodes. These account already exist in the dimension table in SAP Analytics Cloud. For all other accounts, copy, ID, description and hierarchy node.
@@ -58,12 +58,12 @@ The final result should look as follows:
 
 ![](../images/ex1.2_19.png)
 
-16. Save the model
+15. Save the model
 
 ![](../images/ex1.2_23.png)
 ![](../images/ex1.2_24.png)
 
-18. Expose the model's fact data in the data builder of SAP Datasphere. Call the table 'T_PLANNING_FACTS'.
+16. Expose the model's fact data in the data builder of SAP Datasphere. Call the table 'T_PLANNING_FACTS'.
 ![](../images/ex1.2_20.png)
 ![](../images/ex1.2_21.png)
 
