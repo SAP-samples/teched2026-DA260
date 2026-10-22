@@ -1,5 +1,5 @@
 # Create base view for planning model in SAP Datasphere
-In this exercise, you will build a view from which we will later create a planning model in SAP Analytics Cloud. The view contains P&L actuals for multiple company codes. 
+In this exercise, you will build a view from which you will later create a planning model in SAP Analytics Cloud. The view contains P&L actuals for multiple company codes. 
 
 > [!TIP]
 > The underlying view has been shared with you from another SAP Datasphere space and can be considered a data product. If you want to learn more about how data products can be created in SAP Business Data Cloud, have a look at the following TechEd2026 hands-on [DA161 — Develop and Create Data Products in Joule Studio](https://github.com/SAP-samples/teched2026-DA161).
