@@ -65,3 +65,10 @@ For the invisible prompt, add:
 6. Save your story.
    
 ![](../images/ex2_15.png)
+
+
+> [!NOTE]
+> Feel free to experiment with other prompts. Use the widget to generate commentary on specific line items and countries. Ask it to find further deviations, ask it for strategies and news etc.
+
+
+Now, you can move on to [exercise 3](../ex3_Joule_planning_agent.md)
