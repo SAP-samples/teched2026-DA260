@@ -64,7 +64,7 @@ The version should be displayed on the table as we did not set a filter on versi
 
 3. Ask Joule how planning works.
 > Can you give me information about how to do planning?
-![](../images/ex3_8.png)
+![](../images/ex3_8.png | width="100 px")
 ![](../images/ex3_9.png)
 
 4. Ask Joule how it can help you.
