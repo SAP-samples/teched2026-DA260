@@ -52,7 +52,8 @@ The version should be displayed on the table as we did not set a filter on versi
 ![](../images/ex3_d1.png)
 ![](../images/ex3_d2.png)
 
-<br>
+
+
 ## Joule
 
 1. Open Joule.
