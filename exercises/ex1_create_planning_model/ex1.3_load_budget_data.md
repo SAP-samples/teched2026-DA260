@@ -11,33 +11,34 @@ In this exercise, you will add budget data to your model via a data import job.
 ![](../images/ex1.3_2.png)
 
 4. Select the Excel file you just downloaded.
+
    ![](../images/ex1.3_3.png)
 
-5. Set up the import.
+6. Set up the import.
    ![](../images/ex1.3_4.png)
 
-6. Review the issues on the Company Code column and set the column as String.
-![](../images/ex1.3_5.png)
+7. Open the Company Code column etails and set the column as String. If it is String already, move on. 
+![](../images/ex1.3_14.png)
 ![](../images/ex1.3_6.png)
 
-7. Set 'Account' and 'AccountParent' as String. You can do so by clicking on the column header names in the grids.
+8. Set 'Account' and 'AccountParent' as String. You can do so by clicking on the column header names in the grids.
 ![](../images/ex1.3_6a.png)
 ![](../images/ex1.3_6b.png)
 
-8. Click 'Next'.
+9. Click 'Next'.
  ![](../images/ex1.3_7.png)
 
-9. Set 'Public.Budget' as default version.
+10. Set 'Public.Budget' as default version.
  ![](../images/ex1.3_8.png)
  ![](../images/ex1.3_9.png)
 
-10. Map 'CompanyCodeDescription', 'ProductDescription', 'ProductGroup', 'ProductHierarchy' as per the image below.
+11. Map 'CompanyCodeDescription', 'ProductDescription', 'ProductGroup', 'ProductHierarchy' as per the image below.
  ![](../images/ex1.3_10.png)
 
-11. Map 'AccountParent'
+12. Map 'AccountParent'
  ![](../images/ex1.3_13.png)
 
-12. Click 'Next', 'Run Import' and 'Finish'
+13. Click 'Next', 'Run Import' and 'Finish'
  ![](../images/ex1.3_11.png)
  ![](../images/ex1.3_12.png)
 
