@@ -16,7 +16,7 @@ In this exercise, you will build a view from which you will later create a plann
 4. Drag view `V_DA260_SOURCE` on to the canvas.
 ![](../images/ex1.1_4.png)
 
-5. Call the view 'V_PLANNING_SOURCE' and make it a fact view exposed for consumption. Deploy it. 
+5. Call the view `V_PLANNING_SOURCE` and make it a fact view exposed for consumption. Deploy it. 
 ![](../images/ex1.1_5.png)
 ![](../images/ex1.1_7.png)
 
