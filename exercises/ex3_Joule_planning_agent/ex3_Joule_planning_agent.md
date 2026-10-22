@@ -73,6 +73,7 @@ The version should be displayed on the table as we did not set a filter on versi
 5. Ask it to fill your Forecast version.
 > Copy actuals from January until July 2026 from the actual version to DA260_FC
 > Generate a forecast for BesRun China for the months August-December in DA260_Forecast. It should match my budget
+
 ![](../images/ex3_12.png)
 
 6. Do specific planning actions.
