@@ -47,15 +47,11 @@ In this exercise, we will use Joule to do planning with us. You can follow all i
 
 The version should be displayed on the table as we did not set a filter on versions when designing the table. 
 
-5. Open the builder panel of the table and add the monthly granularity.
-
+5. Open the builder panel of the table and add the monthly granularity. <br>
 ![](../images/ex3_d1.png)
 ![](../images/ex3_d2.png)
 
-
-
 ## Joule
-
 1. Open Joule.
 ![](../images/ex3_6.png)
 
