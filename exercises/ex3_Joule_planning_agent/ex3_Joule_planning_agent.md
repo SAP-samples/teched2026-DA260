@@ -26,7 +26,7 @@ In this exercise, we will use Joule to do planning with us. You can follow all i
 > [!NOTE]
 > Joule can create new versions. Adding a version upfront is more straight-forward to start planning given the used beta state of the agent. Feel free to try out version creation with Joule by yourself!
 
-1. Open version management.
+1. Open version management. The table must be selected in order to do so.
 ![](../images/ex3_1.png)
 
 2. Add new blank public version and call it 'DA260_Forecast'. Assign the 'Forecast' category. 
