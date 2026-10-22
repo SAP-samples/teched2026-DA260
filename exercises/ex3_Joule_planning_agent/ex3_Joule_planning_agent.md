@@ -50,9 +50,9 @@ The version should be displayed on the table as we did not set a filter on versi
 5. Open the builder panel of the table and add the monthly granularity.
 
 ![](../images/ex3_d1.png)
-![](../images/ex3_d2.png)<br><br>
+![](../images/ex3_d2.png)
 
-
+<br>
 ## Joule
 
 1. Open Joule.
