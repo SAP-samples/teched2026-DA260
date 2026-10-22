@@ -1,7 +1,8 @@
 # Load budget data
 In this exercise, you will add budget data to your model via a data import job. 
 
-1. Download this [Excel file](../files/AM_DA260_BASE_BUD.xlsx) to your computer. 
+1. Download this [Excel file](https://github.com/Sygyzmundovych/teched2026-DA260/raw/refs/heads/main/exercises/files/DA260_Account.xlsx) to your computer. 
+
 2. Navigate to Data Management.
 
 ![](../images/ex1.3_1.png)
