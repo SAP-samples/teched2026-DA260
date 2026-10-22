@@ -58,7 +58,11 @@ The final result should look as follows:
 
 ![](../images/ex1.2_19.png)
 
-16. Expose the model's fact data in the data builder of SAP Datasphere. Call the table 'T_PLANNING_FACTS'.
+16. Save the model
+
+![](../images/ex1.2_23.png)
+
+18. Expose the model's fact data in the data builder of SAP Datasphere. Call the table 'T_PLANNING_FACTS'.
 ![](../images/ex1.2_20.png)
 ![](../images/ex1.2_21.png)
 
