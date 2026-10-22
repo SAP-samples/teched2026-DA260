@@ -16,7 +16,7 @@ In this session, you will create an SAP Analytics Cloud seamless planning model 
 The requirements to follow the exercises in this repository are:
 
 - Basic understanding of planning & modeling in SAP Analytics Cloud
-- Basic understanding story design in SAP Analytics Cloud
+- Basic understanding of story design in SAP Analytics Cloud
 - Basic understanding of the concepts of SAP Datasphere
 
 ## Exercises
