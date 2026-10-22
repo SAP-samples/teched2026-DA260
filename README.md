@@ -9,6 +9,8 @@ This repository contains the material for the SAP TechEd 2026 session called DA2
 
 In this session, you will create an SAP Analytics Cloud seamless planning model based on a data product shared with an SAP Datasphere space that you can access. On top of this planning model, you will build a planning story and use the Enterprise Planning & Simulation Agent in Joule. You will also use the Data and Analytics Insights Agent to create a reporting story on a sample model. 
 
+![](exercises/images/Overview.png)
+
 ## Requirements
 
 The requirements to follow the exercises in this repository are:
