@@ -47,10 +47,26 @@ In this exercise, we will use Joule to do planning with us. You can follow all i
 
 The version should be displayed on the table as we did not set a filter on versions when designing the table. 
 
+5. Open the builder panel of the table and add the monthly granularity.
+![](../images/ex3_d1.png)
+![](../images/ex3_d2.png)
+
 ## Joule
 
-Say Hi to Joule! See how to start a new conversation and handle a common error of the beta version. 
+1. Open Joule.
+![](../images/ex3_6.png)
+
+2. Say Hi to Joule! See how to start a new conversation and handle a common error of the beta version. 
 ![](../images/ex3_J1.gif)
 
 > [!NOTE]
 > You can use the prompts below. But feel free to experiment and play around!
+
+3. Ask Joule how planning works.
+> Can you give me information about how to do planning?
+![](../images/ex3_8.png)
+![](../images/ex3_9.png)
+
+5. Ask Joule how it can help you.
+> What can you do on top of planning models?
+
