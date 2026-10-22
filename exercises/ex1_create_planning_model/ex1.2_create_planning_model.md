@@ -60,7 +60,7 @@ The final result should look as follows:
 
 15. Save the model. Call it 'DA260_MODEL'.
 
-![](../images/ex1.2_23.png)
+![](../images/ex1.2_29.png)
 ![](../images/ex1.2_24.png)
 
 16. Expose the model's fact data in the data builder of SAP Datasphere. Call the table 'T_PLANNING_FACTS'.
