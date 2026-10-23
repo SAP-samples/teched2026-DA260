@@ -171,7 +171,7 @@ Create the following three numeric point charts using **IBCS notation**:
 
 ---
 
-## Step 9 — Review Final Sections and Click Save your insights instruction under My Files Folder
+## Step 9 — Review Final Sections and Save your insights instruction under My Files Folder
 
 Scroll to the end of the instruction to confirm all sections are complete. At the bottom of the dialog you will see three action buttons:
 
