@@ -36,7 +36,7 @@ The wizard opens on **Step 1: Define Goal**, showing a three-step progress bar: 
 
 > **Tip:** The Create Story wizard is one of the entry point for Data and Analytics Insights Agent. It uses Insights Instructions or SAC models — domain-specific metadata files — to guide the AI in proposing the content for your analytics story.
 
-![Create Story wizard — Step 1: Define Goal](teched_handson_assets/step01.jpg)
+![Create Story wizard — Step 1: Define Goal](../screenshots/step01.jpg)
 *Create Story wizard opens on the Define Goal step with an empty goal field.*
 
 ---
@@ -47,7 +47,7 @@ In the **Based on** row, click the **search/link icon** next to the *Insights In
 
 The **Select Insights Instruction** dialog opens and begins loading the available instructions for your tenant. A three-dot loading indicator confirms the system is fetching the list.
 
-![Select Insights Instruction dialog loading](teched_handson_assets/step02.jpg)
+![Select Insights Instruction dialog loading](../screenshots/step02.jpg)
 *The Insights Instruction picker dialog opens and loads available instructions.*
 
 ---
@@ -60,7 +60,7 @@ The dialog closes and the instruction name appears in the **Based on** field. Th
 
 > **Tip:** Insights Instructions bundle domain expertise (which measures to use, which chart types suit which analyses, relevant filters) into a reusable file. Selecting the right instruction ensures the AI generates contextually accurate content.
 
-![Insights Instruction selected — sales-performance-analysis-dsag](teched_handson_assets/step03.jpg)
+![Insights Instruction selected — sales-performance-analysis-dsag](../screenshots/step03.jpg)
 *The instruction `sales-performance-analysis-dsag` is now selected in the Based on field.*
 
 ---
@@ -71,7 +71,7 @@ You can type your goal manually, or click the **Suggest** button (the blue AI bu
 
 The system shows *"This is taking a moment, please wait..."* with a loading indicator. The AI is analyzing the Insights Instruction metadata and composing a structured story outline.
 
-![AI suggestion in progress — Please wait](teched_handson_assets/step04.jpg)
+![AI suggestion in progress — Please wait](../screenshots/step04.jpg)
 *The AI is analyzing the Insights Instruction and generating a story goal suggestion.*
 
 ---
@@ -89,7 +89,7 @@ The AI populates the **Your Goal** text area with a comprehensive story outline 
 
 > **Tip:** You can freely edit this AI-generated outline before proceeding. Modify chart types, add or remove sections, or refine the goal text. The AI will use your final text as the instruction for story generation.
 
-![AI-generated story goal — structured outline](teched_handson_assets/step05.jpg)
+![AI-generated story goal — structured outline](../screenshots/step05.jpg)
 *The AI suggests a complete multi-section story outline with specific chart types for each analysis area.*
 
 ---
@@ -106,7 +106,7 @@ Click **Next Step** to advance past the *Review Outline* step to **Step 3: Story
 
 > **Tip:** For this exercise, keep Output Type as *Story Page* and leave the other options at their defaults.
 
-![Story Settings — Output Type dropdown open](teched_handson_assets/step06.jpg)
+![Story Settings — Output Type dropdown open](../screenshots/step06.jpg)
 *Step 3: Story Settings with the Output Type dropdown showing Story Page and New HTML Page options.*
 
 ---
@@ -117,7 +117,7 @@ Click the **Generate Story** button in the bottom-right corner of the wizard. Th
 
 The editor displays a live generation progress log. You can see the system loading the **Story Generation Agent** and initializing the AI models in real time. The first task — "Add Widgets to Story Page Sales Performance Overview" — begins immediately.
 
-![Story generation progress — Load AI Agent and Load Models](teched_handson_assets/step07.jpg)
+![Story generation progress — Load AI Agent and Load Models](../screenshots/step07.jpg)
 *The Story Generation Agent is loaded and begins adding widgets to the story page.*
 
 ---
@@ -134,7 +134,7 @@ The generation log updates live as each widget is created and added to the story
 
 You may see toast notifications at the bottom of the screen about calculations being renamed (e.g., *"Calculation 2026 has been renamed to 2026 (2) due to a duplicate name."*). This is expected behavior — dismiss these notifications by clicking the X. With that you can see the calculated measure like *compare sales for 2025 vs 2025* is generated on-the-fly while generating the story.
 
-![Story generation — multiple widgets added with rename notifications](teched_handson_assets/step08.jpg)
+![Story generation — multiple widgets added with rename notifications](../screenshots/step08.jpg)
 *The agent adds widgets one by one. Rename notifications at the bottom are expected and can be dismissed.*
 
 ---
@@ -150,7 +150,7 @@ The log continues until all 9 widgets from the story outline have been added:
 
 Once all widgets are placed, the AI applies an **Auto Layout** to the story page — intelligently arranging all charts for optimal readability without manual sizing or positioning.
 
-![All widgets added — Auto Layout in progress](teched_handson_assets/step09.jpg)
+![All widgets added — Auto Layout in progress](../screenshots/step09.jpg)
 *All 9 widgets are added. The AI now auto-arranges them into the best layout for the story page.*
 
 ---
@@ -165,7 +165,7 @@ The final entries in the generation log confirm:
 
 The story is now fully generated and ready to view. The editor tab shows the completed story. Proceed to the next step to explore it.
 
-![Story generation complete — Done message](teched_handson_assets/step10.jpg)
+![Story generation complete — Done message](../screenshots/step10.jpg)
 *The generation log confirms all steps are complete: widgets added, layout applied, filters processed.*
 
 ---
@@ -184,7 +184,7 @@ Scroll the story page upward to also see the **Key Metrics** section (KPI tiles 
 
 > **Tip:** The story uses the SAP Morning Horizon (Light) theme. All charts have default styling, filters, and interactions applied automatically by the AI.
 
-![Generated story — Sales Performance Overview with charts](teched_handson_assets/step11.jpg)
+![Generated story — Sales Performance Overview with charts](../screenshots/step11.jpg)
 *The completed story shows a time series chart and brand analysis table. Scroll up to see all sections.*
 
 ---
@@ -203,7 +203,7 @@ remove Region, add calendar month, and filter by 2026 from january to september 
 
 > **Tip:** Joule operates on the currently *selected* widget. Always click your target chart before opening Joule, or select it while the Joule panel is open — otherwise the modification applies to nothing. Alaternatively, you can write the chart name in your natual language description instead of selecting the widget in story canvas
 
-![Joule panel open with modification prompt](teched_handson_assets/step12.jpg)
+![Joule panel open with modification prompt](../screenshots/step12.jpg)
 *The Joule AI panel is open. A natural-language prompt instructs Joule to change the dimension and filter the chart.*
 
 ---
@@ -214,7 +214,7 @@ Press **Enter** or click the send button to submit the prompt. Joule displays yo
 
 The panel shows *"Thinking..."* with a progress bar while Joule interprets your instruction, identifies the chart properties to change (dimension, measure filter, date range), and plans the sequence of modifications.
 
-![Joule thinking — processing the natural language request](teched_handson_assets/step13.jpg)
+![Joule thinking — processing the natural language request](../screenshots/step13.jpg)
 *Joule processes your natural-language prompt, determining the exact chart property changes required.*
 
 ---
@@ -231,7 +231,7 @@ Once complete, the chart on the canvas updates live to reflect the new configura
 
 > **Tip:** Joule's AI interprets intent — note that the prompt used informal language ("janurary to september") and Joule resolved these to the correct dimension and filter values. You can continue refining with additional prompts in the same conversation.
 
-![Joule updating chart properties](teched_handson_assets/step14.jpg)
+![Joule updating chart properties](../screenshots/step14.jpg)
 *Joule applies all three chart modifications simultaneously — dimension change, new dimension added, and date range filter applied.*
 
 ---
@@ -242,7 +242,7 @@ Once complete, the chart on the canvas updates live to reflect the new configura
 
 ## Exercise Complete!
 
-You have successfully used the **Create Story wizard** with AI goal suggestion to generate a full analytics story, and refined a chart using **Joule's natural-language AI** — without writing a single piece of code or manually placingand configuring a single widget.
+You have successfully used the **Data and Analytics Insights Agent** with Insights Instruction to generate a full analytics story, and refined a chart using **Joule in SAC** — without writing a single piece of code or manually placingand configuring a single widget.
 
 ---
 
