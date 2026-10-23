@@ -36,7 +36,7 @@ The **Create Insights Instruction** wizard opens as a modal dialog. It has two s
 
 The form shows five fields: *Name* (required), *Model* (required), *Referenced Story*, *Composite*, and *Theme*.
 
-![Step 1 — Create Insights Instruction dialog opens with an empty form](screenshots/step01_open_dialog.png)
+![Step 1 — Create Insights Instruction dialog opens with an empty form](../screenshots/step01_open_dialog.png)
 
 > **Tip:** The *Theme* dropdown already defaults to **SAP Morning Horizon (Light)**, which is the recommended theme for new stories. You can leave it as-is for this exercise.
 
@@ -52,7 +52,7 @@ sales-performance-analysis-da260-xx
 
 xx is your seatnumber. The name is used as the file name when the instruction is saved, so use lowercase letters and hyphens only (no spaces or special characters).
 
-![Step 2 — Typing the instruction name into the Name field](screenshots/step02_enter_name.png)
+![Step 2 — Typing the instruction name into the Name field](../screenshots/step02_enter_name.png)
 
 > **Note:** The field is highlighted with a blue border while it has focus. The asterisk (*) next to the label indicates the field is required — you cannot proceed without a value here.
 
@@ -62,7 +62,7 @@ xx is your seatnumber. The name is used as the file name when the instruction is
 
 Next, link a data model. Click the **browse icon** (small file-picker icon) on the right side of the **Model** field to open the model selection dialog.
 
-![Step 3 — Name is complete; cursor hovering over the Model picker icon](screenshots/step03_click_model_picker.png)
+![Step 3 — Name is complete; cursor hovering over the Model picker icon](../screenshots/step03_click_model_picker.png)
 
 > **Tip:** The Model defines the schema (dimensions, measures, hierarchies) that the AI uses when generating chart recommendations. Choosing the right model is critical for relevant output.
 
@@ -76,7 +76,7 @@ Navigate to **My Files → Samples** using the left panel. Find **Sales_SampleMo
 
 Click **OK** to confirm your selection and close the dialog.
 
-![Step 4 — Select Model dialog with Sales_SampleModel selected](screenshots/step04_select_model.png)
+![Step 4 — Select Model dialog with Sales_SampleModel selected](../screenshots/step04_select_model.png)
 
 > **Note:** The description column next to *Sales_SampleModel* reads "SAP Sample Model", confirming this is the correct pre-loaded model for this exercise.
 
@@ -95,7 +95,7 @@ Verify that both required fields are correctly filled in:
 
 The remaining optional fields (*Referenced Story*, *Composite*, *Theme*) can be left at their defaults.
 
-![Step 5 — Both Name and Model fields are filled in; form is ready to proceed](screenshots/step05_model_selected.png)
+![Step 5 — Both Name and Model fields are filled in; form is ready to proceed](../screenshots/step05_model_selected.png)
 
 > **Tip:** The *Referenced Story* field lets you link an existing story so the used models in reference story can be directly added into this insights instruction. Leave it empty for this exercise.
 
@@ -105,7 +105,7 @@ The remaining optional fields (*Referenced Story*, *Composite*, *Theme*) can be 
 
 Click the **Next Step** button in the lower-right corner of the dialog. The wizard begins communicating with the AI model. The form fields are temporarily disabled and a three-dot loading animation appears in the center of the dialog while the system analyses the data model and generates the instruction content.
 
-![Step 6 — Loading animation appears after clicking Next Step](screenshots/step06_click_next_step.png)
+![Step 6 — Loading animation appears after clicking Next Step](../screenshots/step06_click_next_step.png)
 
 > **Note:** This step typically takes a couple of seconds depending on model complexity. Do not close the dialog or navigate away while the spinner is active.
 
@@ -123,7 +123,7 @@ The top of the instruction contains a **header block** with the name and descrip
 
 The AI now suggests a couple of scenarios as the screenshot shown below.
 
-![Step 7 — Step 2 active; generated instruction shows the header and first scenario](screenshots/step07_generated_instruction_top.png)
+![Step 7 — Step 2 active; generated instruction shows the header and first scenario](../screenshots/step07_generated_instruction_top.png)
 
 > **Tip:** You can freely edit the text before saving. If the content does not match your requirements, use the **Refine** button (top-right of the text area) to provide additional guidance and re-generate.
 
@@ -167,7 +167,7 @@ Create the following three numeric point charts using **IBCS notation**:
 
 
 
-![Step 8 — Instruction content scrolled to reveal Sections 2–5 and global settings](screenshots/step08_generated_instruction_scroll.png)
+![Step 8 — Instruction content scrolled to reveal Sections 2–5 and global settings](../screenshots/step08_generated_instruction_scroll.png)
 
 ---
 
@@ -182,7 +182,7 @@ Scroll to the end of the instruction to confirm all sections are complete. At th
 
 Once you are satisfied with the insights instruction, click **Save**.
 
-![Step 9 — Bottom of the generated instruction showing all sections complete; Save button highlighted](screenshots/step09_generated_instruction_bottom.png)
+![Step 9 — Bottom of the generated instruction showing all sections complete; Save button highlighted](../screenshots/step09_generated_instruction_bottom.png)
 
 > **Tip:** The toolbar above the text area offers two additional controls: the **code icon** (`</>`) to inspect the raw structure, and the **eye icon** to preview a formatted view.
 
