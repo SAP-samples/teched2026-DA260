@@ -8,7 +8,7 @@
 - User/mail: <mark>ac382806u**xx**@sapexperienceacademy.com</mark> - fill **xx** with your user number that you find on your desk; e.g., <mark>`ac382806u01@sapexperienceacademy.com`</mark>
 - Password: <mark>`ObWGWtwvPj1!`</mark>
 > [!NOTE]  
-> The sign on your desk says 'User 001', for example. Only use the last two digits of your user number, so ignore the first leading zero.
+> The sign on your desk says 'User 001', for example. Only use the last two digits of your user number, so ignore the first leading zero...
 
 ## SAP Datasphere 
 ### Space set-up
