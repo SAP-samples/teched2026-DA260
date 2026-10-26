@@ -52,6 +52,7 @@ In this exercise, we will use Joule to do planning with us. You can follow all i
 ![](../images/ex3_98.png)
 
 6. Turn on 'Show Unbooked Data' for the Version dimension.
+
 ![](../images/ex3_99.png)
 
 7. Add the monthly granularity. <br>
