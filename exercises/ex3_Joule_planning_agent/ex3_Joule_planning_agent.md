@@ -45,9 +45,16 @@ In this exercise, we will use Joule to do planning with us. You can follow all i
 
 ![](../images/ex3_6.png)
 
-The version should be displayed on the table as we did not set a filter on versions when designing the table. 
+5. Open the builder panel of the table and filter the table to the year 2026.
 
-5. Open the builder panel of the table and add the monthly granularity. <br>
+![](../images/ex3_96.png)
+![](../images/ex3_97.png)
+![](../images/ex3_98.png)
+
+6. Turn on 'Show Unbooked Data' for the Version dimension.
+![](../images/ex3_99.png)
+
+7. Add the monthly granularity. <br>
 ![](../images/ex3_d1.png)
 ![](../images/ex3_d2.png)
 
