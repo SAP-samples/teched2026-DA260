@@ -34,7 +34,7 @@ In SAP Analytics Cloud, navigate to the **Stories** section using the left navig
 
 The wizard opens on **Step 1: Define Goal**, showing a three-step progress bar: *Define Goal → Review Outline → Story Settings*. The **Based on** field is pre-set to *Insights Instructions*. The **Your Goal** text area is empty, awaiting your input or an AI suggestion.
 
-> **Tip:** The Create Story wizard is one of the entry point for Data and Analytics Insights Agent. It uses Insights Instructions or SAC models — domain-specific metadata files — to guide the AI in proposing the content for your analytics story.
+> **Tip:** Please note: The option to launch the wizard directly from the SAC Story module is available exclusively for this TechEd exercise. In the standard Data and Analytics Insights Agent, story generation is initiated through Joule in SAP Analytics Cloud (SAC).Once you start agent from Joule, you can choose either to continue with the Create Story Wizard for a guided, step-by-step experience or remain within Joule for a more conversational workflow. For this exercise, we are using the Create Story Wizard to provide a structured and guided story creation experience. It uses Insights Instructions or SAC models — domain-specific metadata files — to guide the AI in proposing the content for your analytics story.
 
 ![Create Story wizard — Step 1: Define Goal](../screenshots/step01.jpg)
 *Create Story wizard opens on the Define Goal step with an empty goal field.*
@@ -54,7 +54,7 @@ The **Select Insights Instruction** dialog opens and begins loading the availabl
 
 ### Step 3 — Select the Insights Instruction
 
-Once the list loads, locate and select the instruction what you created in the exercise ex4.1. Alternatively, you can also choose the sample instructions `sales-performance-analysis-da260-sample`. Click **OK** to confirm.
+Once the list loads, locate and select the instruction what you created in the exercise ex4.1. Alternatively, you can also choose the sample instructions `sales-performance-analysis-da260-sample`. You can find this instruction under folder Public/TechEd_DA260/StoryGeneration. Click **OK** to confirm. Please also confirm the **USD** as the currency.
 
 The dialog closes and the instruction name appears in the **Based on** field. The **Your Goal** text area is still empty, showing the placeholder text *"Describe an objective for your story or allow AI to suggest a prompt for you."*
 
@@ -67,7 +67,7 @@ The dialog closes and the instruction name appears in the **Based on** field. Th
 
 ### Step 4 — Request an AI-Suggested Goal
 
-You can type your goal manually, or click the **Suggest** button (the blue AI button with a sparkle icon in the top-right of the goal area) to let the AI propose a story goal based on the selected Insights Instruction.
+You can type your goal manually, or click the **Suggest** button (the blue AI button with a sparkle icon in the top-right of the goal area) to let the AI propose a story goal based on the selected Insights Instruction. For this exercise, please just select **Suggest** button.
 
 The system shows *"This is taking a moment, please wait..."* with a loading indicator. The AI is analyzing the Insights Instruction metadata and composing a structured story outline.
 
@@ -87,7 +87,7 @@ The AI populates the **Your Goal** text area with a comprehensive story outline 
 - *Period Analysis* — Time series line chart for monthly sales trend (Q1 2025–Q3 2026)
 - *Brand Analysis* — Data table with Sales and Expense by Brand
 
-> **Tip:** You can freely edit this AI-generated outline before proceeding. Modify chart types, add or remove sections, or refine the goal text. The AI will use your final text as the instruction for story generation.
+> **Tip:** You can freely edit this AI-generated outline before proceeding. Modify chart types, add or remove sections, or refine the goal text. The AI will use your final text as the instruction for story generation. For this exercise, you can leave the AI-suggested content as it is.
 
 ![AI-generated story goal — structured outline](../screenshots/step05.jpg)
 *The AI suggests a complete multi-section story outline with specific chart types for each analysis area.*
@@ -100,11 +100,8 @@ The AI populates the **Your Goal** text area with a comprehensive story outline 
 
 Click **Next Step** to advance past the *Review Outline* step to **Step 3: Story Settings**. Configure the following options:
 
-- **Output Type** — Open the dropdown and select *Story Page* (default). Alternatively, choose *New HTML Page* if you prefer an HTML-based output format.
 - **Theme** — Keep the default *SAP Morning Horizon (Light)* theme.
 - **Story Options** — Optionally enable *Include Appendix Page* to add a data appendix, or *Auto-save story pages to File Repository* for automatic backup.
-
-> **Tip:** For this exercise, keep Output Type as *Story Page* and leave the other options at their defaults.
 
 ![Story Settings — Output Type dropdown open](../screenshots/step06.jpg)
 *Step 3: Story Settings with the Output Type dropdown showing Story Page and New HTML Page options.*
