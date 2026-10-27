@@ -5,17 +5,17 @@
 - [SAP Datasphere](https://trial-bdc-datasphere-3.eu10.hcs.cloud.sap/dwaas-core/index.html)
 
 ## Log-in
-- User/mail: <mark>ac382806u**xx**@sapexperienceacademy.com</mark> - fill **xx** with your user number that you find on your desk; e.g., <mark>`ac382806u01@sapexperienceacademy.com`</mark>
-- Password: <mark>`ObWGWtwvPj1!`</mark>
+- User/mail: ac385740u**xx**@sapexperienceacademy.com - fill **xx** with your user number that you find on your desk; e.g., `ac385740u01@sapexperienceacademy.com`
+- Password: `ObBaoOIbts1!`
 > [!NOTE]  
 > The sign on your desk says 'User 001', for example. Only use the last two digits of your user number, so ignore the first leading zero.
 
 ## SAP Datasphere 
 ### Space set-up
-A space is available and assigned for each participant couple. The space name is <mark>AC382806U**xx**</mark> (fill **xx** with your user number that you find on your PC; e.g., <mark>`AC382806U01`)</mark>. 
+A space is available and assigned for each participant couple. The space name is AC385740U**xx** (fill **xx** with your user number that you find on your PC; e.g., `AC385740U01`). 
 ![](../images/ex0_1.png)
 > [!NOTE]  
-> The exercise was done in space `AC382806U02`. Screenshots will reflect this space in SAP Datasphere and SAP Analytics Cloud. You are using <mark>`AC382806Uxx`</mark> instead. 
+> The exercise was done in space `AC382806U02`. Screenshots will reflect this space in SAP Datasphere and SAP Analytics Cloud. You are using `AC385740Uxx` instead. 
 
 ## SAP Analytics Cloud
 ### File repository
