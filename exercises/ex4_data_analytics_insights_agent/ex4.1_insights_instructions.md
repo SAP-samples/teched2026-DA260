@@ -29,7 +29,7 @@ In this hands-on exercise you will create an **Insights Instruction** in SAP Ana
 
 Navigate to **Stories** from the SAP Analytics Cloud left navigation bar (the chart-bar icon). On the *Welcome to Stories* page, locate the **Create** panel on the left and click the **Insights Instruction** tile (the tile with the lightning-bolt icon).
 
-The **Create Insights Instruction** wizard opens as a modal dialog. It has two steps shown in the progress bar at the top:
+The **Create Insights Instruction** editor opens as a modal dialog. It has two steps shown in the progress bar at the top:
 
 - **Step 1 — Instruction Detail** (currently active, highlighted in blue)
 - **Step 2 — Generate Instruction** (inactive for now)
@@ -103,7 +103,7 @@ The remaining optional fields (*Referenced Story*, *Composite*, *Theme*) can be 
 
 ## Step 6 — Click "Next Step" to Trigger AI Generation
 
-Click the **Next Step** button in the lower-right corner of the dialog. The wizard begins communicating with the AI model. The form fields are temporarily disabled and a three-dot loading animation appears in the center of the dialog while the system analyses the data model and generates the instruction content.
+Click the **Next Step** button in the lower-right corner of the dialog. Now please confirm **USD** as the currency variable. The editor begins communicating with the AI model. The form fields are temporarily disabled and a three-dot loading animation appears in the center of the dialog while the system analyses the data model and generates the instruction content.
 
 ![Step 6 — Loading animation appears after clicking Next Step](../screenshots/step06_click_next_step.png)
 
@@ -125,14 +125,14 @@ The AI now suggests a couple of scenarios as the screenshot shown below.
 
 ![Step 7 — Step 2 active; generated instruction shows the header and first scenario](../screenshots/step07_generated_instruction_top.png)
 
-> **Tip:** You can freely edit the text before saving. If the content does not match your requirements, use the **Refine** button (top-right of the text area) to provide additional guidance and re-generate.
 
 ---
 
 ## Step 8 — Edit the Instruction Content
 
-Leave the **When** and **What** area as it is like from step 7. Please use the below instructions for the **How** area. You can also reference the sample insights instruction **sales-performance-analysis-da260-sample**
+Leave the **When** and **What** area as it is like from step 7. Please copy and paste below content to replace the **How** area. You can also reference the sample insights instruction **sales-performance-analysis-da260-sample**
 
+```
 # One-Page Sales Performance Analysis
 
 For every analysis request, create a **single-page story** containing the following four sections.
@@ -164,8 +164,7 @@ Create the following three numeric point charts using **IBCS notation**:
 - Apply at STORY LEVEL (Applied to All Pages): Version = Actual
 - Do NOT pre-apply any filters, sorts, ranks, or drill on any widget
 - All chart and table widgets must start in a clean state
-
-
+```
 
 ![Step 8 — Instruction content scrolled to reveal Sections 2–5 and global settings](../screenshots/step08_generated_instruction_scroll.png)
 
@@ -180,7 +179,7 @@ Scroll to the end of the instruction to confirm all sections are complete. At th
 - **Save** — opens the save dialog to store the instruction as a file
 - **Cancel** — discards all changes and closes the wizard
 
-Once you are satisfied with the insights instruction, click **Save**.
+Here you can just click **Save** to save this insights instruction under My Files
 
 ![Step 9 — Bottom of the generated instruction showing all sections complete; Save button highlighted](../screenshots/step09_generated_instruction_bottom.png)
 
@@ -208,7 +207,7 @@ You have successfully created an Insights Instruction in SAP Analytics Cloud. He
 
 ### What's Next?
 
-In the next exercise you will use this Insights Instruction to automatically generate an AI-driven, data-rich story page for sales performance analysis.
+In the next exercise 4.2 you will use this Insights Instruction to automatically generate an AI-driven, data-rich story page for sales performance analysis.
 
 ---
 
