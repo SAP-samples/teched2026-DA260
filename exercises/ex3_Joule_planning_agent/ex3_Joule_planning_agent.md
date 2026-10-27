@@ -55,7 +55,7 @@ In this exercise, we will use Joule to do planning with us. You can follow all i
 
 ![](../images/ex3_99.png)
 
-7. Add the monthly granularity. <br>
+7. Add the monthly granularity. Save your story afterwards. <br>
 ![](../images/ex3_d1.png)
 ![](../images/ex3_d2.png)
 
