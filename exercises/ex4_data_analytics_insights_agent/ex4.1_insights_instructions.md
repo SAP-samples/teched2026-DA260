@@ -27,7 +27,8 @@ In this hands-on exercise you will create an **Insights Instruction** in SAP Ana
 
 ## Step 1 — Open the Create Insights Instruction Dialog
 
-Navigate to **Stories** from the SAP Analytics Cloud left navigation bar (the chart-bar icon). On the *Welcome to Stories* page, locate the **Create** panel on the left and click the **Insights Instruction** tile (the tile with the lightning-bolt icon).
+Navigate to **Stories** from the SAP Analytics Cloud left navigation bar (the chart-bar icon). On the *Welcome to Stories* page, navigate to 
+**Insights Instructions**. Then in the **Create** area please select **Insights Instruction** tile (the tile with the lightning-bolt icon).
 
 The **Create Insights Instruction** editor opens as a modal dialog. It has two steps shown in the progress bar at the top:
 
@@ -125,12 +126,12 @@ The AI now suggests a couple of scenarios as the screenshot shown below.
 
 ![Step 7 — Step 2 active; generated instruction shows the header and first scenario](../screenshots/step07_generated_instruction_top.png)
 
-
+> **Note:** When authoring Insights Instructions, you can take two complementary approaches depending on your reporting needs. A high-level, multi-purpose instruction defines multiple Scenarios within a single instruction, allowing it to serve a range of analysis patterns — the user's Goal refines the output at runtime, making it a "create once, reuse many" tool. Alternatively, a granular, story-level instruction encodes every detail of the output — exact pages, widgets, filters, and constraints — so that one Skill maps precisely to one governed story structure, ideal for recurring operational or management reports. In both cases, soft defaults give users flexibility through the Goal, while hard constraints guarantee that critical rules such as mandatory KPIs or excluded data are always enforced.  This exercise focuses on defining granular story-level insight instructions.
 ---
 
 ## Step 8 — Edit the Instruction Content
 
-Leave the **When** and **What** area as it is like from step 7. Please copy and paste below content to replace the **How** area. You can also reference the sample insights instruction **sales-performance-analysis-da260-sample**
+Select the first scenario and Leave the **When** and **What** area as they are like from step 7. Please copy and paste below content to replace the **How** area. You can also reference the sample insights instruction **sales-performance-analysis-da260-sample**
 
 ```
 # One-Page Sales Performance Analysis
