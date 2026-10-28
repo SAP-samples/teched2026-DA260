@@ -30,7 +30,7 @@ In this exercise you will use the Data and Analytics Insights Agent to generate 
 
 ### Step 1 — Open the Create Story Wizard
 
-In SAP Analytics Cloud, navigate to the **Stories** section using the left navigation sidebar (the speech-bubble icon). Click the **+ Create Story** button to open the wizard. The agent provide 2 entry mode: wizard mode and Joule mode. In this exercise we are going to use the wizard mode.
+In SAP Analytics Cloud, navigate to the **Stories** section using the left navigation sidebar (the speech-bubble icon). Click the **Create with AI** button to open the wizard. 
 
 The wizard opens on **Step 1: Define Goal**, showing a three-step progress bar: *Define Goal → Review Outline → Story Settings*. The **Based on** field is pre-set to *Insights Instructions*. The **Your Goal** text area is empty, awaiting your input or an AI suggestion.
 
@@ -54,7 +54,7 @@ The **Select Insights Instruction** dialog opens and begins loading the availabl
 
 ### Step 3 — Select the Insights Instruction
 
-Once the list loads, locate and select the instruction what you created in the exercise ex4.1. Alternatively, you can also choose the sample instructions `sales-performance-analysis-da260-sample`. You can find this instruction under folder Public/TechEd_DA260/StoryGeneration. Click **OK** to confirm. Please also confirm the **USD** as the currency.
+Once the list loads, locate and select the instruction what you created in the exercise ex4.1. Alternatively, you can also click on **Browse** to choose the sample instructions `sales-performance-analysis-da260-sample`. You can find this instruction under folder Public/TechEd_DA260/StoryGeneration. Click **OK** to confirm. Please also confirm the **USD** as the currency.
 
 The dialog closes and the instruction name appears in the **Based on** field. The **Your Goal** text area is still empty, showing the placeholder text *"Describe an objective for your story or allow AI to suggest a prompt for you."*
 
@@ -98,7 +98,7 @@ The AI populates the **Your Goal** text area with a comprehensive story outline 
 
 ### Step 6 — Configure Story Settings
 
-Click **Next Step** to advance past the *Review Outline* step to **Step 3: Story Settings**. Configure the following options:
+Click **Next Step**. Now the story outline is generated. you can review the outline and then click **Next Step**. Now you are in **Step 3: Story Settings**. Configure the following options:
 
 - **Theme** — Keep the default *SAP Morning Horizon (Light)* theme.
 - **Story Options** — Optionally enable *Include Appendix Page* to add a data appendix, or *Auto-save story pages to File Repository* for automatic backup.
@@ -190,7 +190,7 @@ Scroll the story page upward to also see the **Key Metrics** section (KPI tiles 
 
 Scroll up to the **Region Analysis** section. Click the **Sales per Region** bar chart to select it (a blue border appears around the selected chart).
 
-Then click the **Joule** icon (purple diamond / AI assistant) in the top-right toolbar. The Joule panel slides open on the right side of the screen.
+Then click the **Joule** icon (purple diamond) in the top-right toolbar. The Joule panel slides open on the right side of the screen.
 
 In the **Message Joule...** input at the bottom of the panel, type the following natural-language modification request:
 
