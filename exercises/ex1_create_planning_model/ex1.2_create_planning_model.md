@@ -12,7 +12,7 @@ In this exercise, we will use the `V_PLANNING_SOURCE` view from SAP Datasphere a
 ![](../images/ex1.2_2.png)
 ![](../images/ex1.2_3.png)
 
-3. Select SAP Datasphere and your user's space as data storage location. Selecting SAP Datasphere as data storage location means that you will use seamless planning. You will see your space name <mark>`AC382806Uxx`</mark>. Use this space. 
+3. Select SAP Datasphere and your user's space as data storage location. Selecting SAP Datasphere as data storage location means that you will use seamless planning. You will see your space name `AC385740Uxx`. Use this space. 
 ![](../images/ex1.2_4.png)
 
 4. Now you select the datasource for your model. We select *SAP Datasphere*. By that, we will directly create a live connection to our source view via a live version.
